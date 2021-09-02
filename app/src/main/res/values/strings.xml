@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kotlin_startup</string>
+    <string name="count_value">Loading..</string>
+    <string name="random_button_text">Random</string>
+    <string name="toast_button_text">Toast</string>
+</resources>
